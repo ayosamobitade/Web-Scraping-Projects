@@ -1,4 +1,4 @@
-# List of Most Popular Websites (EDA) fro Wikipedia 
+# List of Most Popular Websites (An EDA) from Wikipedia 
 
 ![topcountry](https://user-images.githubusercontent.com/70634916/173611537-9a7a0c25-0f39-4f0f-8313-d34713ce8ab6.png)
 
